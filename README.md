@@ -5,10 +5,6 @@
 ```        
 $ git clone https://github.com/LouisCaixuran/gomoku.git
 $ cd gomoku
-```
-
-### If use CLI:
-```
 $ sudo pip3 install -r requirements.txt
 $ sudo python3 setup.py install
 ```
